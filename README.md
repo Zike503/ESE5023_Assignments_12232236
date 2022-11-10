@@ -5,7 +5,7 @@
 Good to see interesting methods especially for Q4.2.
 The caption and the analyses is comprehensive. (+1p)
 
-## Comemnts on HW1 Lixc (95/100)
+## Comemnts on HW2 Lixc (95/100)
 1.2 
 We expect the trend of number of earthquakes for this question. (-1p)
 2
