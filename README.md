@@ -18,3 +18,10 @@ Please name years that stand out having anomalous hurricane activity. (-1p)
 Seasonality can be  interpreted as climatology by month. 
 2.2
 Better to add a threshold for two events.
+
+### Assginment 04 comments - Chenyy
+Great job! I shall give you full point (30/30).
+
+### Assginment 05 comments - Chenyy
+Good job! I shall give you full point with 15 bonus (55/40).
+Your report is neat and organized. You did also good on Q1.4.
