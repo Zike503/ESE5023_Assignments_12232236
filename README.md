@@ -12,3 +12,9 @@ We expect the trend of number of earthquakes for this question. (-1p)
 Is there a trend in monthly averaged air temperature in the past 25 years? (-3p)
 3.10
 Please name years that stand out having anomalous hurricane activity. (-1p)
+
+## Comemnts on HW3 Lixc  (50/50)
+1.3
+Seasonality can be  interpreted as climatology by month. 
+2.2
+Better to add a threshold for two events.
